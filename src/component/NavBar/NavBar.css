@@ -1,0 +1,54 @@
+.navbar {
+    background-color: var(--clr-grey-1);
+}
+
+.logo {
+    color: var(--clr-white) !important;
+    font-size: 1.3rem !important;
+    font-weight: 600 !important;
+    margin: 20px 0;
+    text-decoration: none;
+    letter-spacing: var(--spacing);
+}
+
+.navbar-toggler-icon {
+    display: none !important;
+}
+
+.navbar-toggler {
+    position: relative;
+}
+
+
+button.navbar-toggler:focus {
+    box-shadow: none;
+    outline: none;
+    border: none;
+}
+
+.navbar-toggler::before {
+    font-family: "Font Awesome 6 Free";
+    content: "\f0c9";
+    font-weight: 900;
+    color: white;
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%) rotate(-90deg);
+    transition: .3s;
+    color: var(--clr-red-dark);
+}
+
+.navbar-toggler.collapsed::before {
+    transform: translateY(-50%) rotate(0deg);
+    color: var(--clr-white);
+}
+
+.nav-link {
+    padding-left: 0 !important;
+    padding-right: 16px !important;
+    letter-spacing: 1px;
+}
+
+
+
