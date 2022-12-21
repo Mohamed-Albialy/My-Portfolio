@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/My-portfolio/static/css/main.dbc49a81.css",
+    "main.js": "/My-portfolio/static/js/main.089e8bf3.js",
+    "static/media/likedIn.png": "/My-portfolio/static/media/likedIn.08960b6f59a337a3a122.png",
+    "static/media/Home.png": "/My-portfolio/static/media/Home.f0c45d7400fbdffc90f3.png",
+    "static/media/project-2.png": "/My-portfolio/static/media/project-2.dde5e03ff8432a9de652.png",
+    "static/media/project-3.png": "/My-portfolio/static/media/project-3.4094416a018835d22b7f.png",
+    "static/media/project-1.png": "/My-portfolio/static/media/project-1.4e5860adcde3daf189c3.png",
+    "static/media/js.png": "/My-portfolio/static/media/js.cdc8a85fbecefd30164c.png",
+    "static/media/project-4.png": "/My-portfolio/static/media/project-4.38dccf1884c5dbd96afa.png",
+    "static/media/sass.png": "/My-portfolio/static/media/sass.08473bb32219288aa1d8.png",
+    "static/media/react.png": "/My-portfolio/static/media/react.77fbdfbefc5d1b226e71.png",
+    "static/media/mtc.png": "/My-portfolio/static/media/mtc.f483307fe65a97dbf090.png",
+    "static/media/bootstrap.png": "/My-portfolio/static/media/bootstrap.f276a1ed2f7f33161488.png",
+    "static/media/HTML5.png": "/My-portfolio/static/media/HTML5.e000777624ded555656a.png",
+    "static/media/css3.png": "/My-portfolio/static/media/css3.cd315c4919537792603f.png",
+    "static/media/Udacity-Logo.png": "/My-portfolio/static/media/Udacity-Logo.b65652acf6849655dc82.png",
+    "index.html": "/My-portfolio/index.html",
+    "main.dbc49a81.css.map": "/My-portfolio/static/css/main.dbc49a81.css.map",
+    "main.089e8bf3.js.map": "/My-portfolio/static/js/main.089e8bf3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbc49a81.css",
+    "static/js/main.089e8bf3.js"
+  ]
+}
